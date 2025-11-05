@@ -1,0 +1,11 @@
+pravee_dbt_tutorial:
+  outputs:
+    dev:
+      catalog: dbt_tutorial
+      host: dbc-3977d7c5-1bc8.cloud.databricks.com
+      http_path: /sql/1.0/warehouses/19a4dd35cb8a6c23
+      schema: default
+      threads: 1
+      token: dapi38e99caff6d85ba61a47438195363d4a
+      type: databricks
+  target: dev
