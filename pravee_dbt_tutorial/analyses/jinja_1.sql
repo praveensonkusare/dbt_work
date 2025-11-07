@@ -1,0 +1,1 @@
+{%set var ='Praveen' %}{{var}}

@@ -11,6 +11,8 @@ sources:
 
       - name: dim_store
 
+      - name: items
+
 
       
 
