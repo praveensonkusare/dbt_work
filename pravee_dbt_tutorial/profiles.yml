@@ -6,6 +6,6 @@ pravee_dbt_tutorial:
       http_path: /sql/1.0/warehouses/19a4dd35cb8a6c23
       schema: default
       threads: 1
-      token: dapi38e99caff6d85ba61a47438195363d4a
+      token: 
       type: databricks
   target: dev
